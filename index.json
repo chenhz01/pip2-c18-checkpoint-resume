@@ -1,0 +1,30 @@
+[
+  {
+    "id": "L68",
+    "cluster": "c18 断点与恢复",
+    "name": "冷启动恢复测试",
+    "dir": "L68-cold-start-resume",
+    "loc": 38
+  },
+  {
+    "id": "L69",
+    "cluster": "c18 断点与恢复",
+    "name": "状态完整性断言",
+    "dir": "L69-state-integrity",
+    "loc": 38
+  },
+  {
+    "id": "L70",
+    "cluster": "c18 断点与恢复",
+    "name": "恢复成本估计",
+    "dir": "L70-resume-cost-estimate",
+    "loc": 37
+  },
+  {
+    "id": "L71",
+    "cluster": "c18 断点与恢复",
+    "name": "断点新鲜度",
+    "dir": "L71-checkpoint-freshness",
+    "loc": 45
+  }
+]
